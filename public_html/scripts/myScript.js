@@ -3,7 +3,7 @@
 function Initialize()
 {
     var employee = new Employee('level1 manager');
-    employee.Name = "Dave";
+    employee.Name = "Dave1";
     employee.GetInfo(); 
 }
 
